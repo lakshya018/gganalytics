@@ -1,7 +1,7 @@
 # Getting Started with GGAnalytics Application
 
 ## Introduction
-#### This is a demonstraion of how can we fetch data from an API and display it into Table.
+#### This is a demonstraion of how can we fetch data from an API and display it into Table, completely made on ReactJS.
 
 ## Features of the website
 #### A user can change the view of the columns.
