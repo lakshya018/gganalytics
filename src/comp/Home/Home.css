@@ -1,0 +1,55 @@
+.red{
+    border: 2px solid red;
+    margin: 10px;
+
+}
+.hidden{
+    display: none;
+}
+.startDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+.endDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+.items{
+    margin: 10px;
+}
+.dates{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.date{
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    border: 1px solid grey;
+    
+}
+.fetchBtn{
+    font-size: 1em;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #00ADB5;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: #eeeeee;
+
+}
+.fetchBtn:hover{
+    background-color:#018991 ;
+}
+.hrLine{
+    opacity: 0.3;
+    margin: 20px 100px;
+}
